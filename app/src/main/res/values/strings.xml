@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random Sentence Generator</string>
+    <string name="button_generate_sentence">generate sentence</string>
+    <string name="button_copy_to_clipboard">copy to clipboard</string>
+    <string name="copied_to_clipboard">sentences copied to clipboard</string>
+    <string name="error_copy_to_clipboard">unable to copy to clipboard :(</string>
+    <string name="tv_empty_message">nothing to copy</string>
+
+</resources>
